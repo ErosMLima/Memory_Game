@@ -12,5 +12,6 @@ Esse é o repositório jogo da memória do Batman realizado com auxílio da aula
 * [Javascript](Cards_Slip)
  
 
+Link direto para jogar: https://memory-game-nu.vercel.app/
 
 ## 🚀 Let's code! 🚀
